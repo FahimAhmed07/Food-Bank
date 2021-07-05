@@ -29,3 +29,15 @@ span{
 section{
     margin-top: 100px;
 }
+.second-sec{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    
+}
+.about-me{
+    width: 40%;
+    padding-left: 80px;
+    
+   
+}
