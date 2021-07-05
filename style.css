@@ -1,0 +1,31 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+span{
+    color: orange;
+}
+.grey{
+    color:grey;
+}
+
+.food-panda{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+.first-sec{
+    display: flex;
+    padding-left: 70px;
+}
+.healthy-diet{
+    width: 50%;  
+}
+section{
+    margin-top: 100px;
+}
